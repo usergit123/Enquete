@@ -287,6 +287,8 @@ input:checked + label
 /* Dark mode */
 
 
+
+
 @media screen and (prefers-color-scheme: dark)
     body
         background: #242424
@@ -296,4 +298,6 @@ input:checked + label
     input:checked + label span, 
     .worm__segment:before
         color: #5785f6
+
+
 
